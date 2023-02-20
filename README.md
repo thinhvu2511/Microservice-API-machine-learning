@@ -1,9 +1,4 @@
-![image](https://user-images.githubusercontent.com/114981431/220191977-5d174544-6ee9-41f8-b530-0bb12014be9c.png)
-
-
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
-
----
+![image](https://user-images.githubusercontent.com/114981431/220192097-9a5843ab-baa8-4da2-abf6-ccc8b50534b2.png)
 
 ## Setup the Environment
 
